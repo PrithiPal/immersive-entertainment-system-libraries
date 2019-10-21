@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+d0ae9e19ec4e826eac1f40eec8264ec3 CMakeFiles/ScreenCapture
