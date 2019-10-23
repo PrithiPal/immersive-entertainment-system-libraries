@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/ModifyImage.dir/ModifyImage.cpp.o"
-  "ModifyImage.pdb"
-  "ModifyImage"
+  "CMakeFiles/ModifyImage.dir/code/ModifyImage.cpp.o"
+  "executable/ModifyImage.pdb"
+  "executable/ModifyImage"
 )
 
 # Per-language clean rules from dependency scanning.

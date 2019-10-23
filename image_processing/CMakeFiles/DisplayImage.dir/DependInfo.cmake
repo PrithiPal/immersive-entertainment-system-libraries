@@ -4,13 +4,14 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/prithi/Desktop/mac/beagle_host/sample/DisplayImage.cpp" "/home/prithi/Desktop/mac/beagle_host/sample/CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o"
+  "/Users/prithipalsingh/desktop/beagle_host/project/gaming-libraries/image_processing/code/DisplayImage.cpp" "/Users/prithipalsingh/desktop/beagle_host/project/gaming-libraries/image_processing/CMakeFiles/DisplayImage.dir/code/DisplayImage.cpp.o"
   )
-set(CMAKE_CXX_COMPILER_ID "GNU")
+set(CMAKE_CXX_COMPILER_ID "Clang")
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/local/include/opencv4"
+  "/usr/local/include"
+  "/usr/local/include/opencv"
   )
 
 # Targets to which this target links.
