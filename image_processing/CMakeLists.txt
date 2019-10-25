@@ -3,8 +3,13 @@ message("prefix is ${CMAKE_INSTALL_PREFIX}")
 message("flags are ${CMAKE_CXX_FLAGS}")
 message("CMAKE_BINARY_DIR = ${CMAKE_BINARY_DIR}")
 message("${OpenCV_LIBS}")
-# ------------------------ SETTING VARIABLES  -------------------------
-set(FILENAMES DisplayImage ModifyImage)
+# ------------------------ SETTING EXECUTABLE FILES  -------------------------
+set(FILENAMES 
+    DisplayImage 
+    ModifyImage 
+    Meanshift
+    )
+# ------------------------ SETTING COMPILATION OPTIONS  -------------------------
 set(EXECUTABLE_OUTPUT_PATH ${CMAKE_BINARY_DIR}/executable)
 set(CODEDIR code)
 set(EXECUTABLEDIR executables)
@@ -24,7 +29,7 @@ endforeach()
 set(SCREENCAPTURE_FILE ScreenCapture)
 add_custom_target(
   ${SCREENCAPTURE_FILE}
-  COMMAND g++ ${SCREENCAPTURE_FILE}.cpp -lX11 -o ${SCREENCAPTURE_FILE} `pkg-config --cflags opencv` `pkg-config --libs opencv`
+  COMMAND g++ ${CODEDIR}/${SCREENCAPTURE_FILE}.cpp -lX11 -o ${EXECUTABLE_OUTPUT_PATH}/${SCREENCAPTURE_FILE} `pkg-config --cflags opencv` `pkg-config --libs opencv`
   COMMENT "compiling ScreenCapture.cpp"
-  DEPENDS ${SCREENCAPTURE_FILE}.cpp
+  DEPENDS ${CODEDIR}/${SCREENCAPTURE_FILE}.cpp
 )

@@ -6,10 +6,18 @@
 
 #IncludeRegexTransform: 
 
-/home/prithi/Desktop/mac/beagle_host/project/gaming-libraries/image_processing/code/DisplayImage.cpp
-stdio.h
+/home/prithi/Desktop/mac/beagle_host/project/gaming-libraries/image_processing/code/Meanshift.cpp
+iostream
 -
-opencv2/opencv.hpp
+opencv2/imgcodecs.hpp
+-
+opencv2/imgproc.hpp
+-
+opencv2/videoio.hpp
+-
+opencv2/highgui.hpp
+-
+opencv2/video.hpp
 -
 
 /usr/local/include/opencv4/opencv2/calib3d.hpp

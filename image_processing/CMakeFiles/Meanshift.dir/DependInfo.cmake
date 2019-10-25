@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/prithi/Desktop/mac/beagle_host/project/gaming-libraries/image_processing/code/DisplayImage.cpp" "/mnt/hgfs/beagle_host/project/gaming-libraries/image_processing/CMakeFiles/DisplayImage.dir/code/DisplayImage.cpp.o"
+  "/home/prithi/Desktop/mac/beagle_host/project/gaming-libraries/image_processing/code/Meanshift.cpp" "/mnt/hgfs/beagle_host/project/gaming-libraries/image_processing/CMakeFiles/Meanshift.dir/code/Meanshift.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
