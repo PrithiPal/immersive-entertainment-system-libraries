@@ -1,5 +1,0 @@
-/home/prithi/Desktop/mac/beagle_host/sample/CMakeFiles/edit_cache.dir
-/home/prithi/Desktop/mac/beagle_host/sample/CMakeFiles/ScreenCapture.dir
-/home/prithi/Desktop/mac/beagle_host/sample/CMakeFiles/DisplayImage.dir
-/home/prithi/Desktop/mac/beagle_host/sample/CMakeFiles/rebuild_cache.dir
-/home/prithi/Desktop/mac/beagle_host/sample/CMakeFiles/ModifyImage.dir
