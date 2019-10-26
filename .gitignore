@@ -36,3 +36,5 @@ image_processing/sample/CMakeFiles/DisplayImage.dir/depend.make
 image_processing/sample/CMakeFiles/ModifyImage.dir/depend.make
 
 image_processing/sample/CMakeCache.txt
+
+image_processing/sample/cmake_install.cmake
