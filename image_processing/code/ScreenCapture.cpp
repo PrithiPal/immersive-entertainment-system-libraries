@@ -67,8 +67,11 @@ int main()
   while(1){
     screenCapture screen(0,0,1400,700);
     Mat image;
+    // output the current frame to a output file. 
+    // may slow down but for the testing purposes.
     screen(image);
     imshow("image", image);
+    imwrite("../outdata/screen_capture.jpg",image); 
     waitKey(1);
 }
 
