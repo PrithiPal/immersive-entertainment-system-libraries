@@ -1,6 +1,0 @@
-/mnt/hgfs/beagle_host/project/gaming-libraries/image_processing/CMakeFiles/edit_cache.dir
-/mnt/hgfs/beagle_host/project/gaming-libraries/image_processing/CMakeFiles/ScreenCapture.dir
-/mnt/hgfs/beagle_host/project/gaming-libraries/image_processing/CMakeFiles/Meanshift.dir
-/mnt/hgfs/beagle_host/project/gaming-libraries/image_processing/CMakeFiles/DisplayImage.dir
-/mnt/hgfs/beagle_host/project/gaming-libraries/image_processing/CMakeFiles/rebuild_cache.dir
-/mnt/hgfs/beagle_host/project/gaming-libraries/image_processing/CMakeFiles/ModifyImage.dir
