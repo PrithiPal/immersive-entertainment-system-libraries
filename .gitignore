@@ -15,3 +15,17 @@ CMakeFiles/TargetDirectories.txt
 Makefile
 cmake_install.cmake
 
+
+CMakeFiles/DisplayImage.dir/CXX.includecache
+CMakeFiles/DisplayImage.dir/DisplayImage.cpp.o
+CMakeFiles/DisplayImage.dir/depend.internal
+CMakeFiles/DisplayImage.dir/depend.make
+CMakeFiles/ModifyImage.dir/CXX.includecache
+CMakeFiles/ModifyImage.dir/ModifyImage.cpp.o
+CMakeFiles/ModifyImage.dir/depend.internal
+CMakeFiles/ModifyImage.dir/depend.make
+CMakeFiles/ScreenCapture.dir/depend.internal
+CMakeFiles/ScreenCapture.dir/depend.make
+DisplayImage
+ModifyImage
+ScreenCapture
