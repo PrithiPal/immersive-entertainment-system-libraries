@@ -8,10 +8,6 @@ image_processing/sample/CMakeFiles/ModifyImage.dir/depend.internal
 image_processing/sample/CMakeFiles/ModifyImage.dir/depend.make
 image_processing/sample/CMakeFiles/ScreenCapture.dir/depend.internal
 image_processing/sample/CMakeFiles/ScreenCapture.dir/depend.make
-image_processing/sample/CMakeFiles/DisplayImage
-image_processing/sample/CMakeFiles/ModifyImage
-image_processing/sample/CMakeFiles/ScreenCapture
-
 image_processing/sample/CMakeFiles/CMakeDirectoryInformation.cmake
 image_processing/sample/CMakeFiles/CMakeOutput.log
 image_processing/sample/CMakeFiles/CMakeRuleHashes.txt
@@ -20,7 +16,6 @@ image_processing/sample/CMakeFiles/DisplayImage.dir/build.make
 image_processing/sample/CMakeFiles/DisplayImage.dir/flags.make
 image_processing/sample/CMakeFiles/DisplayImage.dir/link.txt
 image_processing/sample/CMakeFiles/Makefile.cmake
-image_processing/sample/Makefile
 image_processing/sample/CMakeFiles/Makefile2
 image_processing/sample/CMakeFiles/ModifyImage.dir/DependInfo.cmake
 image_processing/sample/CMakeFiles/ModifyImage.dir/build.make
@@ -29,13 +24,18 @@ image_processing/sample/CMakeFiles/ModifyImage.dir/link.txt
 image_processing/sample/CMakeFiles/ScreenCapture.dir/build.make
 image_processing/sample/CMakeFiles/TargetDirectories.txt
 image_processing/sample/CMakeFiles/feature_tests.bin
-
 image_processing/sample/CMakeFiles/3.12.1/
-
-
 image_processing/sample/CMakeFiles/DisplayImage.dir/depend.make
 image_processing/sample/CMakeFiles/ModifyImage.dir/depend.make
+image_processing/sample/CMakeFiles/DisplayImage.dir/DisplayImage.cpp.i
+image_processing/sample/CMakeFiles/DisplayImage.dir/DisplayImage.cpp.s
+image_processing/sample/CMakeFiles/ModifyImage.dir/ModifyImage.cpp.i
+image_processing/sample/CMakeFiles/ModifyImage.dir/ModifyImage.cpp.s
 
+
+image_processing/sample/DisplayImage
+image_processing/sample/ModifyImage
+image_processing/sample/ScreenCapture
+image_processing/sample/Makefile
 image_processing/sample/CMakeCache.txt
-
 image_processing/sample/cmake_install.cmake
