@@ -1,4 +1,1 @@
-image_processing/CMakeFiles
-image_processing/CMakeCache.txt
-image_processing/Makefile
-image_processing/cmake_install.cmake
+build/
