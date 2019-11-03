@@ -4,14 +4,14 @@ message("flags are ${CMAKE_CXX_FLAGS}")
 message("CMAKE_BINARY_DIR = ${CMAKE_BINARY_DIR}")
 message("${OpenCV_LIBS}")
 # ------------------------ SETTING EXECUTABLE FILES  -------------------------
-set(FILENAMES 
-    DisplayImage 
-    ModifyImage 
+set(FILENAMES
+    DisplayImage
+    ModifyImage
     Meanshift
     )
 # ------------------------ SETTING COMPILATION OPTIONS  -------------------------
 set(EXECUTABLE_OUTPUT_PATH ${CMAKE_BINARY_DIR}/executable)
-set(CODEDIR code)
+set(CODEDIR source_code)
 set(EXECUTABLEDIR executables)
 set(DATADIR image_data )
 cmake_minimum_required(VERSION 2.8)
